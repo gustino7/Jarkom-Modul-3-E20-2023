@@ -743,5 +743,6 @@ Untuk test harus melakukan fix ip pada salah satu client sebagai perbandingan de
 ![image](https://github.com/gustino7/Jarkom-Modul-3-E20-2023/assets/93267604/c967ffec-c2d1-4a20-ae56-8260a5832935)
 
 - Revolte
+
 ![image](https://github.com/gustino7/Jarkom-Modul-3-E20-2023/assets/93267604/481a70e4-9c00-49db-b7b2-baccf4261a6d)
 ![image](https://github.com/gustino7/Jarkom-Modul-3-E20-2023/assets/93267604/ea41b4c8-22c2-4a22-835d-9ccf05ee9f65)
